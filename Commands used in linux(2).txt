@@ -21,3 +21,5 @@ clear:-
        To clear the screen.
 man(manual):-
    to get information on any command in linux.      
+
+cat(show file contents)
